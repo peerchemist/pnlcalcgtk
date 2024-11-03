@@ -267,7 +267,7 @@ class ProfitLossCalculator(Adw.ApplicationWindow):
             modal=True,
             program_name="Profit and Loss Calculator",
             version="1.0",
-            comments="A simple profit and loss calculator. Best used to calculate potential outcome of trades on futures markets.",
+            comments="A simple profit and loss calculator.\nBest used to calculate potential outcome of trades on futures markets.",
             license_type=Gtk.License.BSD_3,
             website="https://example.com",
             authors=["Zvonimir Mostarac <peerchemist@protonmail.ch>"],
