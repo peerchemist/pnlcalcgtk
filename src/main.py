@@ -277,7 +277,7 @@ class ProfitLossCalculator(Adw.ApplicationWindow):
 
 class ProfitLossApp(Adw.Application):
     def __init__(self):
-        super().__init__(application_id="com.github.pnlcalc")
+        super().__init__(application_id="com.github.peerchemist.pnlcalc")
         self.create_actions()
         self.window = None
 
