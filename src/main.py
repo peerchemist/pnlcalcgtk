@@ -269,7 +269,7 @@ class ProfitLossCalculator(Adw.ApplicationWindow):
             version="1.0",
             comments="A simple profit and loss calculator.\nBest used to calculate potential outcome of trades on futures markets.",
             license_type=Gtk.License.BSD_3,
-            website="https://example.com",
+            website="https://github.com/peerchemist/pnlcalcgtk",
             authors=["Zvonimir Mostarac <peerchemist@protonmail.ch>"],
         )
         about_dialog.present()
