@@ -1,0 +1,12 @@
+[project]
+name = "pnlcalc"
+version = "1.0.0"
+description = "Add your description here"
+authors = [{ name = "peerchemist", email = "dx.1178@gmail.com" }]
+dependencies = ["pygobject>=3.50.0"]
+readme = "README.md"
+requires-python = ">= 3.8"
+
+[tool.rye]
+managed = true
+dev-dependencies = []

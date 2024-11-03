@@ -1,0 +1,51 @@
+# python generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# venv
+.venv
+
+# Flatpak build artifacts
+*.flatpak
+*.flatpakref
+*.flatpakrepo
+.flatpak-builder/
+.flatpak-builder/build/
+.flatpak-builder/exports/
+.flatpak-builder/rofiles-fuse/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Distribution / Packaging
+dist/
+build/
+*.egg-info/
+*.spec
+*.lock
+
+# Configuration files
+*.ini
+*.yaml
+*.yml
+*.json
+
+# IDE and editor configurations
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Rye artifacts
+/.rye.lock
+rye.lock

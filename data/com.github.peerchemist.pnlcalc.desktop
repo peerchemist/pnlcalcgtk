@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=PnLCalc
+Exec=pnlcalc
+Icon=com.github.peerchemist.pnlcalc.png
+Categories=Finance;Utility;
