@@ -1,5 +1,7 @@
 # pnlcalcgtk
 
+![alt text](data/screenshot.png)
+
 A simple profit and loss calculator.
 Best used to calculate potential outcome of trades on futures markets where leverage is used.
 
